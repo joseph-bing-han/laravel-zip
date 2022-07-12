@@ -1,13 +1,12 @@
 {
-  "name": "zanysoft/laravel-zip",
+  "name": "joseph-bing-han/laravel-zip",
   "description": "laravel-zip is the world's leading zip utility for file compression and backup.",
   "license": "MIT",
   "homepage": "http://www.zanysoft.net",
   "authors": [
     {
-      "name": "Zany Soft",
-      "email": "info@zanysoft.net",
-      "homepage": "http://www.zanysoft.net"
+      "name": "Joseph Han",
+      "email": "joseph.bing.han@gmail.com"
     }
   ],
   "keywords": [
